@@ -6,7 +6,7 @@
 I am a **Data Scientist** passionate about transforming data into strategic insights. My journey includes an academic background as a professor and solid experience in the financial and technology sectors. Currently, I work with **Data Science, Artificial Intelligence, BI and Data Engineering**, helping companies make data-driven decisions.  
 
 📍 **Where am I?**  
-Currently in **Brazil** 🇧🇷  
+Currently in **Portugal** 
 
 💡 **What do I do?**  
 - 🔎 Specialist in **Data Analysis & Science**, focusing on **prediction and statistical modeling** 📊  
