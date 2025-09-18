@@ -2,7 +2,7 @@
 
 ## 🧠 About Me  
 
-I am a **Senior AI/ML Engineer & Data Scientist** with **6+ years of experience** delivering **scalable, production-ready AI solutions**. My expertise spans **Generative AI, Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **vector databases**, and **end-to-end MLOps pipelines**.  
+I am a **GenAI Engineer with a strong foundation in Data Science and Data Engineering** with **6+ years of experience** delivering **scalable, production-ready AI solutions**. My expertise spans **Generative AI, Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **vector databases**, and **end-to-end MLOps pipelines**.  
 
 With a **strong academic background** (former professor, Master's in Bioinformatics) and industry experience across **finance, technology, and academia**, I bring a **scientific approach** to **data-driven decision-making**, blending **advanced analytics** with **robust engineering practices**.  
 
