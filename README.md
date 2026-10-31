@@ -6,7 +6,7 @@ I am a **GenAI Engineer with a strong foundation in Data Science and Data Engine
 
 With a **strong academic background** (former professor, Master's in Bioinformatics) and industry experience across **finance, technology, and academia**, I bring a **scientific approach** to **data-driven decision-making**, blending **advanced analytics** with **robust engineering practices**.  
 
-📍 **Location**: Based in Portugal — EU & LATAM citizenship | 🌍 Open to remote global opportunities  
+📍 **Location**: Based in Lisbon, Portugal — EU & LATAM citizenship | 🌍 Open to remote global opportunities  
 
 ---
 
