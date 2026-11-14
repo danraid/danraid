@@ -1,132 +1,113 @@
-# 👋 Welcome to my GitHub!  
+# Daniel Raaid
 
-## 🧠 About Me  
+**Senior GenAI Engineer · AI Tech Lead · Data Scientist · Technical Author**
 
-I am a **GenAI Engineer with a strong foundation in Data Science and Data Engineering** with **6+ years of experience** delivering **scalable, production-ready AI solutions**. My expertise spans **Generative AI, Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **vector databases**, and **end-to-end MLOps pipelines**.  
+*Building reliable, measurable and production-ready AI systems.*
 
-With a **strong academic background** (former professor, Master's in Bioinformatics) and industry experience across **finance, technology, and academia**, I bring a **scientific approach** to **data-driven decision-making**, blending **advanced analytics** with **robust engineering practices**.  
+📍 Lisbon, Portugal · 🇵🇹 🇧🇷 Portuguese and Brazilian citizenship · 🌍 International remote collaboration
 
-📍 **Location**: Based in Lisbon, Portugal — EU & LATAM citizenship | 🌍 Open to remote global opportunities  
-
----
-
-## 💼 Core Expertise  
-
-- **Generative AI & LLM Orchestration**: OpenAI, Hugging Face Transformers, LangChain, LlamaIndex  
-- **RAG Architecture & Vector Search**: Pinecone, FAISS, Weaviate, ChromaDB  
-- **MLOps & Deployment**: MLflow, Docker, CI/CD (GitHub Actions), cloud-native microservices  
-- **Cloud Platforms**: AWS (S3, Lambda, SageMaker), Azure (Data Lake, Synapse), GCP (Vertex AI, BigQuery)  
-- **Data Science & Applied ML**: Predictive modeling, NLP, statistical analysis, sentiment analysis, chatbot development  
-- **Data Engineering**: ETL/ELT pipelines, orchestration (Airflow), data architecture, SQL optimization  
-- **AI Ethics & Responsible AI**: Data privacy compliance, security, and governance frameworks  
+[LinkedIn](https://www.linkedin.com/in/danielraid/) · [Portfolio](https://sites.google.com/view/danielraid) · [Books on Amazon](https://www.amazon.com.br/s?k=daniel+raaid) · [Email](mailto:daniel.e.raid@gmail.com)
 
 ---
 
-## 🛠️ Technical Skills  
+## About me
 
-### **Programming & Data**
-<div>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</div>
+I am an **AI engineer, technical lead and author** with **7+ years of experience in data science, machine learning and data engineering**, building AI solutions from research and prototyping through to deployment and operational monitoring.
 
-### **AI & Machine Learning**
-<div>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/Hugging%20Face-FFAE1A?style=for-the-badge&logo=huggingface&logoColor=black">
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white">
-<img src="https://img.shields.io/badge/LlamaIndex-FF6F00?style=for-the-badge">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-</div>
+My work focuses on **agentic AI, LLM applications, retrieval-augmented generation (RAG), context engineering, evaluation, MLOps and scalable cloud architectures**. I combine practical software engineering with a scientific perspective informed by a **master's degree in bioinformatics** and previous experience as a university lecturer.
 
-### **Vector Databases**
-<div>
-<img src="https://img.shields.io/badge/Pinecone-0052CC?style=for-the-badge">
-<img src="https://img.shields.io/badge/FAISS-003B57?style=for-the-badge">
-<img src="https://img.shields.io/badge/Weaviate-00A6A6?style=for-the-badge">
-<img src="https://img.shields.io/badge/ChromaDB-4A148C?style=for-the-badge">
-</div>
+I work across **Python, cloud platforms, distributed data systems and modern AI orchestration frameworks**, with particular interest in making autonomous systems dependable, auditable, cost-efficient and useful in real-world settings.
 
-### **BI & Data Visualization**
-<div>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black">
-<img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
-</div>
+## What I build and research
 
-### **Cloud & MLOps**
-<div>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white">
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-<img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge">
-<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white">
-</div>
+- **Agentic AI and LLM engineering:** tool-using agents, multi-agent orchestration, structured reasoning, LangChain, LangGraph and LlamaIndex.
+- **RAG and knowledge systems:** ingestion pipelines, embeddings, vector retrieval, reranking and response-quality evaluation.
+- **AI reliability and evaluation:** eval-driven development, benchmarks, regression testing, auditability, observability and human oversight.
+- **Context and cache engineering:** context compaction, memory, prompt and semantic caching, performance and cost trade-offs.
+- **ML and MLOps:** NLP, deep learning, forecasting, MLflow, CI/CD, containerisation and reproducible deployments.
+- **Data and cloud engineering:** ETL/ELT, SQL, Spark, Kafka, orchestration and solutions on Azure, AWS and GCP.
 
----
+## Published books
 
-## 🎓 Education  
+My technical books are available on **Amazon in paperback and Kindle editions**. The companion exercise repositories are free to access.
 
-- **Postgraduate in Software Engineering** – UNOPAR (2025)  
-- **Postgraduate in Data Engineering** – UNOPAR (2025)  
-- **Bachelor's in Data Science** – UniFavip Wyden (2025)  
-- **Master's in Bioinformatics** – INPA (2006)  
+### 📘 Context Compaction in Agent Harness Engineering
+*Theory, Mechanisms and Production Engineering*
 
----
+An engineering guide to context lifecycles, compression, memory, information preservation, evaluation and the operation of long-running AI agents.
 
-## 📜 Professional Certifications  
+[Paperback](https://www.amazon.com.br/dp/B0HQ7CZN5B) · [Kindle](https://www.amazon.com.br/dp/B0HQ5H3NWX) · [Free exercises and code](https://github.com/danraid/context-compaction-exercises)
 
-<div>
-<img src="https://img.shields.io/badge/IBM%20Certified-AI%20Engineering-blue?style=for-the-badge&logo=ibm">
-<img src="https://img.shields.io/badge/IBM%20Certified-Data%20Engineering-blue?style=for-the-badge&logo=ibm">
-<img src="https://img.shields.io/badge/IBM%20Certified-DevOps-blue?style=for-the-badge&logo=ibm">
-<img src="https://img.shields.io/badge/Duke%20University-MLOps%20Engineering-003366?style=for-the-badge&logo=duke-university">
-<img src="https://img.shields.io/badge/Google-Data%20Analytics-4285F4?style=for-the-badge&logo=google">
-<img src="https://img.shields.io/badge/Google-Business%20Intelligence-4285F4?style=for-the-badge&logo=google">
-<img src="https://img.shields.io/badge/Microsoft-Power%20BI%20Data%20Analyst-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black">
-</div>
+### 📗 Cache Engineering for AI Agent Harnesses
+*Design, Correctness and Operations for Reuse in LLM-Powered Agents*
 
----
+A practical and theoretical treatment of prompt, KV, semantic, retrieval and tool caching, with an emphasis on correctness, reuse and production behaviour.
 
-## 📊 GitHub Stats  
-<div align="center">
-  <a href="https://github.com/danraid">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danraid&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danraid&layout=compact&langs_count=7&theme=radical"/>
-  </a>
-</div>  
+[Paperback](https://www.amazon.com.br/dp/B0HR1KQR8P) · [Kindle](https://www.amazon.com.br/dp/B0HR1N1Q7W) · [Free exercises and code](https://github.com/danraid/cache-exercises)
 
----
+### 📙 Eval-Driven Development
+*Engineering Reliable AI Systems Through Evidence*
 
-## 📫 Connect with Me  
-<div>
-  <a href="mailto:daniel.e.raid@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/danielraid" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://sites.google.com/view/danielraid" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
-</div>  
+A research-informed approach to continuous AI evaluation, measurable quality, testing and evidence-based software development.
 
----
+[Paperback](https://www.amazon.com.br/dp/B0HR1JV9HP) · [Kindle](https://www.amazon.com.br/dp/B0HQZPZ4Z7) · [Free exercises and code](https://github.com/danraid/edd-exercises)
 
-### 🎯 Tagline  
-**"Turning Data into Intelligent, Scalable, and Ethical AI Solutions."**  
+**Fiction under the pen name Dan Raaid:** [*Os Dois Nós* (Kindle)](https://www.amazon.com.br/dp/B0HQBXNBS5).
 
-🚀 Open to **collaborations, consulting projects, and global remote roles** in AI, ML, MLOps, and Data Engineering.  
+> Publication links above refer to Amazon listings verified in November 2026. Companion repositories provide independent learning materials; no purchase is required to use them.
+
+## Selected open-source projects
+
+| Project | Focus |
+| --- | --- |
+| [RAG Knowledge Assistant](https://github.com/danraid/RAG-Knowledge-Assistant) | Retrieval-augmented knowledge assistant and document-aware AI |
+| [Azure AI Agents MVP](https://github.com/danraid/ai-agents-azure-mvp) | AI agents and orchestration on Azure |
+| [Azure Intelligent Document](https://github.com/danraid/Azure_Intelligent_Document) | Document intelligence, data extraction and AI pipelines |
+| [Movie recommender with Neo4j and MLOps](https://github.com/danraid/movie-recommender-neo4j-mlops) | Graph data and applied machine learning |
+| [Data Engineering Portfolio](https://github.com/danraid/Data-Engineering-Portifolio) | Data platforms, pipelines and engineering examples |
+| [DNA Analysis](https://github.com/danraid/DNA-Analysis) | Computational and bioinformatics-oriented work |
+
+## Professional experience
+
+| Period | Role | Organisation |
+| --- | --- | --- |
+| 2026–present | Senior GenAI and Machine Learning Engineer | BySix / Mozantech |
+| Since 2025 | Senior AI Engineer and AI Tech Lead | D-Plan One |
+| 2019–2025 | Senior Data Scientist and Consultant | INFIN |
+| 2023–2025 | Partner and Investment Advisor | Saron Investments |
+| 2007–2021 | University lecturer, academic coordination and leadership roles | UniNorte and Faculdade Estácio do Amazonas |
+
+Across these roles, I have worked on agentic workflows, AI-powered services, financial and operational analytics, natural language processing, predictive systems, dashboards, cloud architectures and engineering delivery.
+
+## Technologies
+
+| Area | Tools and approaches |
+| --- | --- |
+| **Languages and APIs** | Python, JavaScript, SQL, FastAPI, Flask, REST APIs |
+| **AI / ML / NLP** | PyTorch, TensorFlow, scikit-learn, BERT, Transformers, spaCy, OpenAI models |
+| **Agents and retrieval** | LangChain, LangGraph, LlamaIndex, RAG, vector databases, FAISS, Chroma, Weaviate, Pinecone |
+| **Data engineering** | Pandas, NumPy, Spark, Kafka, Airflow, ETL/ELT, PostgreSQL, MongoDB, Neo4j |
+| **Cloud and operations** | Microsoft Azure, AWS, GCP/Vertex AI, Docker, GitHub Actions, MLflow, CI/CD |
+| **Analytics and BI** | Power BI, Looker, Tableau, Excel |
+
+## Education
+
+- **Postgraduate Specialisation, Software Engineering**, UNOPAR (2025)
+- **Postgraduate Specialisation, Data Engineering**, UNOPAR (2025)
+- **Bachelor's, Data Science**, UniFavip Wyden (2025)
+- **Bachelor's, Financial Management**, UniFavip Wyden (2024)
+- **Master's, Bioinformatics (Genetics)**, INPA (2006)
+- **Bachelor's, Bioinformatics**, UFAM (2004)
+
+## Certifications and professional learning
+
+IBM Data Engineering · IBM DevOps Engineering · IBM Artificial Intelligence Engineering · Duke University MLOps Engineering · IBM Advanced Data Science · Microsoft Power BI Data Analyst · Google Business Intelligence.
+
+## Let's connect
+
+I am interested in collaboration on **agentic AI, production LLM applications, AI engineering, research-led technical education and responsible automation**.
+
+📫 **Email:** [daniel.e.raid@gmail.com](mailto:daniel.e.raid@gmail.com)  
+💼 **LinkedIn:** [danielraid](https://www.linkedin.com/in/danielraid/)  
+🌐 **Portfolio:** [Daniel Raaid](https://sites.google.com/view/danielraid)  
+📚 **Publications:** [Amazon author catalogue](https://www.amazon.com.br/s?k=daniel+raaid)
