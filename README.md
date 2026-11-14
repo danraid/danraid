@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hi, I'm Daniel Raaid!</h1>
+<h1 align="center">Daniel Raaid</h1>
 
 <p align="center"><strong>Senior GenAI Engineer · AI Tech Lead · Data Scientist · Author</strong></p>
-<p align="center"><em>Turning research into reliable, useful AI systems.</em></p>
+<p align="center"><em>Research-led AI engineering | Reliable systems | Applied innovation</em></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Agentic%20AI-0F766E?style=flat-square&logo=openai&logoColor=white" alt="Agentic AI"/>
@@ -20,25 +20,27 @@
 
 ---
 
-## 🧠 A little about me
+## Professional Profile
 
-Hey there! I'm **Daniel**, an AI engineer, technical lead, former university lecturer and author. I love taking complex ideas out of research papers and turning them into tools, systems and explanations that people can actually use.
+I am a **Senior Generative AI Engineer, AI Tech Lead and technical author** with **over seven years of experience** in artificial intelligence, data science and data engineering. I design and implement scalable AI solutions, covering the lifecycle from data integration and model development through to cloud deployment, operational monitoring and continuous improvement.
 
-I've spent **7+ years in data science, AI and data engineering**, working across cloud platforms, machine learning, NLP, LLMs and agentic systems. Before that, I worked in academia. My background in **bioinformatics** still shapes the way I think: start with a good question, look for evidence, then build something you can test.
+My work focuses on **agentic AI, large language models (LLMs), retrieval-augmented generation (RAG), context engineering and MLOps**. I apply software engineering principles to the development of reliable, measurable and maintainable AI systems, with particular attention to evaluation, observability, security and operational efficiency.
 
-These days, I'm especially interested in **agent orchestration, RAG, context compaction, caching and evaluation-driven development**. I write technical books and share hands-on labs because good engineering knowledge should be understandable, reproducible and accessible.
+I hold a **master's degree in Bioinformatics** and postgraduate qualifications in **Software Engineering** and **Data Engineering**. My previous experience in higher education complements my engineering practice with a research-oriented and methodical approach to complex technical challenges.
 
-**A few things I enjoy working on:**
-- 🤖 **Agentic AI:** multi-agent systems, tools, orchestration and dependable workflows.
-- 📚 **RAG and knowledge systems:** retrieval, embeddings, vector search and quality evaluation.
-- 🧠 **Context and cache engineering:** memory, token budgets, efficient inference and preservation of information.
-- 🧪 **Reliable AI:** evaluation harnesses, benchmarks, observability and engineering feedback loops.
-- ☁️ **Cloud-native ML:** Azure, AWS, GCP, Python services, MLOps and data pipelines.
-- ✍️ **Technical education:** explaining the why, not just the how, with open-source exercises.
+As an author, I publish technical books on **context compaction, cache engineering and evaluation-driven development**, supported by openly available practical exercises and reference materials.
 
+### Areas of expertise
+
+- **Agentic AI and orchestration:** multi-agent architectures, tool integration, workflow design and operational controls.
+- **RAG and knowledge engineering:** ingestion, embeddings, vector search, retrieval quality and evaluation.
+- **Context and cache engineering:** agent memory, context compaction, inference optimisation and information integrity.
+- **AI evaluation and reliability:** benchmarks, regression testing, observability, reproducibility and continuous quality assessment.
+- **Cloud-native ML and data systems:** Azure, AWS, Google Cloud, Python services, MLOps and data pipelines.
+- **Technical research and education:** evidence-based engineering methods, technical publications and open-source learning resources.
 ---
 
-## 🛠️ My toolbox
+## Technical Stack
 
 ### **Programming & Data**
 <div>
@@ -130,9 +132,9 @@ These days, I'm especially interested in **agent orchestration, RAG, context com
 
 ---
 
-## 🔁 How I take AI from an idea to production
+## AI Engineering Methodology
 
-I like engineering that survives contact with the real world. That means defining a measurable goal, designing the system, building it, evaluating it properly, and keeping an eye on it after deployment.
+My engineering approach follows a structured lifecycle: define measurable objectives and system requirements, establish the architecture, implement data and AI components, validate performance against explicit evaluation criteria, and deploy with appropriate monitoring and feedback mechanisms.
 
 ```mermaid
 flowchart LR
@@ -144,7 +146,7 @@ flowchart LR
     F -->|"Feedback loop"| B
 ```
 
-| Practice | What I care about |
+| Engineering practice | Primary objectives |
 | --- | --- |
 | 🔎 **Research-led design** | Defining requirements, constraints and evidence before building |
 | 🧩 **Agent and RAG engineering** | Retrieval quality, tool integration, memory, reliability and traceability |
@@ -155,9 +157,9 @@ flowchart LR
 
 ---
 
-## 📚 My books on Amazon
+## Published Books
 
-My technical books are available on **Amazon in paperback and Kindle editions**. The companion exercise repositories are free to access.
+My technical publications are available on **Amazon in paperback and Kindle formats**. Companion repositories provide open-access exercises, code and laboratory materials.
 
 ### 📘 Context Compaction in Agent Harness Engineering
 *Theory, Mechanisms and Production Engineering*
@@ -180,13 +182,13 @@ A research-informed approach to continuous AI evaluation, measurable quality, te
 
 [Paperback](https://www.amazon.com.br/dp/B0HR1JV9HP) · [Kindle](https://www.amazon.com.br/dp/B0HQZPZ4Z7) · [Free exercises and code](https://github.com/danraid/edd-exercises)
 
-**Fiction, under my pen name Dan Raaid:** [*Os Dois Nós* (Kindle)](https://www.amazon.com.br/dp/B0HQBXNBS5).
+**Fiction published under the pen name Dan Raaid:** [*Os Dois Nós* (Kindle)](https://www.amazon.com.br/dp/B0HQBXNBS5).
 
 > Publication links above refer to Amazon listings verified in November 2026. Companion repositories provide independent learning materials; no purchase is required to use them.
 
 ---
 
-## 🧩 Selected open-source projects
+## Selected Open-Source Projects
 
 | Project | Focus |
 | --- | --- |
@@ -199,7 +201,7 @@ A research-informed approach to continuous AI evaluation, measurable quality, te
 
 ---
 
-## 💼 Professional experience
+## Professional Experience
 
 | Period | Role | Organisation |
 | --- | --- | --- |
@@ -209,11 +211,11 @@ A research-informed approach to continuous AI evaluation, measurable quality, te
 | 2023–2025 | Partner and Investment Advisor | Saron Investments |
 | 2007–2021 | University lecturer, academic coordination and leadership roles | UniNorte and Faculdade Estácio do Amazonas |
 
-Across these roles, I have worked on agentic workflows, AI-powered services, financial and operational analytics, natural language processing, predictive systems, dashboards, cloud architectures and engineering delivery.
+My professional experience encompasses agent-based systems, AI-enabled applications, financial and operational analytics, natural language processing, predictive modelling, business intelligence, cloud architecture and end-to-end technical delivery.
 
 ---
 
-## 🎓 Education
+## Academic Background
 
 - **Postgraduate Specialisation, Software Engineering**, UNOPAR (2025)
 - **Postgraduate Specialisation, Data Engineering**, UNOPAR (2025)
@@ -224,7 +226,7 @@ Across these roles, I have worked on agentic workflows, AI-powered services, fin
 
 ---
 
-## 📜 Certifications & professional learning  
+## Professional Certifications  
 
 <div>
 <img src="https://img.shields.io/badge/IBM%20Certified-AI%20Engineering-blue?style=for-the-badge&logo=ibm">
@@ -238,7 +240,7 @@ Across these roles, I have worked on agentic workflows, AI-powered services, fin
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Activity  
 <div align="center">
   <a href="https://github.com/danraid">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danraid&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -248,9 +250,9 @@ Across these roles, I have worked on agentic workflows, AI-powered services, fin
 
 ---
 
-## 📫 Let's connect
+## Contact and Collaboration
 
-I'm always happy to exchange ideas about AI engineering, research, open-source tools and technical writing. If one of my projects sparks an idea, get in touch!
+I welcome professional collaboration on agentic AI, production LLM systems, applied research, AI evaluation and technical education. Please use the channels below to discuss relevant projects or opportunities.
 
 <div>
   <a href="mailto:daniel.e.raid@gmail.com">
@@ -269,4 +271,4 @@ I'm always happy to exchange ideas about AI engineering, research, open-source t
 
 ---
 
-<p align="center"><strong>Curious about how AI works. Serious about making it work well. 🚀</strong></p>
+<p align="center"><strong>Research-led design · Evidence-driven evaluation · Production-ready AI systems</strong></p>
