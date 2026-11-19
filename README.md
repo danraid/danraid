@@ -182,6 +182,18 @@ A research-informed approach to continuous AI evaluation, measurable quality, te
 
 [Paperback](https://www.amazon.com.br/dp/B0HR1JV9HP) · [Kindle](https://www.amazon.com.br/dp/B0HQZPZ4Z7) · [Free exercises and code](https://github.com/danraid/edd-exercises)
 
+### 📕 Agentic AI Engineering
+
+*A practical series on the architecture, implementation and evaluation of agentic AI systems.*
+
+[Paperback](https://www.amazon.com.br/dp/B0HRSF36FR) · [Free laboratories, Vol. 1](https://github.com/danraid/Agentic-AI-Engineering-VOL-1) · [Vol. 2](https://github.com/danraid/Agentic-AI-Engineering-VOL-2) · [Vol. 3](https://github.com/danraid/Agentic-AI-Engineering-VOL-3) · [Vol. 4](https://github.com/danraid/Agentic-AI-Engineering-VOL-4)
+
+### 📒 Spec-Driven Development
+
+*Specification-led engineering, from explicit requirements to implementation and validation.*
+
+[Paperback](https://www.amazon.com.br/dp/B0HRSJCGQV) · [Free exercises and code](https://github.com/danraid/sdd-exercises)
+
 **Fiction published under the pen name Dan Raaid:** [*Os Dois Nós* (Kindle)](https://www.amazon.com.br/dp/B0HQBXNBS5).
 
 > Publication links above refer to Amazon listings verified in November 2026. Companion repositories provide independent learning materials; no purchase is required to use them.
