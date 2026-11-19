@@ -182,11 +182,11 @@ A research-informed approach to continuous AI evaluation, measurable quality, te
 
 [Paperback](https://www.amazon.com.br/dp/B0HR1JV9HP) · [Kindle](https://www.amazon.com.br/dp/B0HQZPZ4Z7) · [Free exercises and code](https://github.com/danraid/edd-exercises)
 
-### 📕 Agentic AI Engineering
+### 📕 Agentic AI Engineering — Volume 01
 
-*A practical series on the architecture, implementation and evaluation of agentic AI systems.*
+*Volume 01 of the Agentic AI Engineering series: architecture, implementation and evaluation of agentic AI systems.*
 
-[Paperback](https://www.amazon.com.br/dp/B0HRSF36FR) · [Free laboratories, Vol. 1](https://github.com/danraid/Agentic-AI-Engineering-VOL-1) · [Vol. 2](https://github.com/danraid/Agentic-AI-Engineering-VOL-2) · [Vol. 3](https://github.com/danraid/Agentic-AI-Engineering-VOL-3) · [Vol. 4](https://github.com/danraid/Agentic-AI-Engineering-VOL-4)
+[Volume 01 Paperback](https://www.amazon.com.br/dp/B0HRSF36FR) · [Free laboratories, Vol. 1](https://github.com/danraid/Agentic-AI-Engineering-VOL-1) · [Vol. 2](https://github.com/danraid/Agentic-AI-Engineering-VOL-2) · [Vol. 3](https://github.com/danraid/Agentic-AI-Engineering-VOL-3) · [Vol. 4](https://github.com/danraid/Agentic-AI-Engineering-VOL-4)
 
 ### 📒 Spec-Driven Development
 
