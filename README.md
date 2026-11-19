@@ -200,6 +200,33 @@ A research-informed approach to continuous AI evaluation, measurable quality, te
 
 ---
 
+## Research & Experimental AI Engineering
+
+I investigate the reliability of agentic AI through reproducible experiments, controlled evaluations and research-oriented prototypes. My current themes include **memory integrity, multi-agent failure propagation and evidence-grounded retrieval**. The research repositories document their protocols, limitations and validation stages; exploratory observations are not presented as confirmed findings.
+
+### 🧠 [When Agent Memory Becomes Unsafe](https://github.com/danraid/When-Agent-Memory-Becomes-Unsafe)
+**Topics:** Agent Memory · Context Compaction · Constraint Preservation · AI Safety
+
+<sub><img src="https://img.shields.io/badge/Research-Memory%20Integrity-6D28D9?style=flat-square&logo=readthedocs&logoColor=white" alt="Memory integrity research"/></sub>
+
+**Abstract:** Investigates whether repeated LLM-driven context compaction preserves evolving authorised constraints when agents make subsequent decisions. Compares full-history, recent-window, recursive-summary and pinned-constraint strategies using controlled tasks. The repository distinguishes protocol and instrument validation from confirmatory scientific evidence.
+
+### 🕸️ [Failure Propagation and Instability in Multi-Agent AI Systems](https://github.com/danraid/Failure-Propagation-and-Instability-in-Multi-Agent-AI-Systems)
+**Topics:** Multi-Agent Systems · Error Propagation · Verification · Fault Injection
+
+<sub><img src="https://img.shields.io/badge/Research-Multi--Agent%20Reliability-0F766E?style=flat-square&logo=githubactions&logoColor=white" alt="Multi-agent reliability research"/></sub>
+
+**Abstract:** Studies how incorrect observations and contaminated tool messages can propagate through agent interactions and affect final task outcomes. Explores independent verification, message quarantine and checker-feedback mechanisms across controlled exploratory tasks. Findings remain bounded by the tested environments and research stage.
+
+### 🔎 [RAG Knowledge Assistant](https://github.com/danraid/RAG-Knowledge-Assistant)
+**Topics:** Retrieval-Augmented Generation · Embeddings · Vector Search · Grounded Answers
+
+<sub><img src="https://img.shields.io/badge/Applied%20Research-Retrieval%20Engineering-2563EB?style=flat-square&logo=googlescholar&logoColor=white" alt="Retrieval engineering research"/></sub>
+
+**Abstract:** An applied engineering prototype for source-grounded question answering over documents. Implements ingestion, chunking, embedding-based FAISS retrieval and a FastAPI query interface, providing a foundation for evaluating retrieval relevance, traceability and future LLM integration.
+
+---
+
 ## Selected Open-Source Projects
 
 | Project | Focus |
